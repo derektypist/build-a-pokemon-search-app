@@ -68,5 +68,5 @@ Deployed on [GitHub Pages](https://derektypist.github.io/build-a-pokemon-search-
 
 ### Acknowledgements
 
-[FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+[FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
